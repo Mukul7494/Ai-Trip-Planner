@@ -14,7 +14,7 @@ export default function Hero() {
         based on your preferences intrest and budget
       </p>
       <Link to="/create-trip">
-        <Button>Get Started, It's Free</Button>
+        <Button>Get Started, It's Fun</Button>
       </Link>
     </div>
   );
